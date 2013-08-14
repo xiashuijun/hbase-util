@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+<!--   <property> -->
+<!--     <name>hbase.zookeeper.quorum</name> -->
+<!--     <value>zookeeper01,zookeeper02,zookeeper03</value> -->
+<!--   </property> -->
+<!--   <property> -->
+<!--     <name>hbase.rootdir</name> -->
+<!--     <value>hdfs://director01:8020/</value> -->
+<!--   </property> -->
+<!--   <property> -->
+<!--     <name>hbase.cluster.distributed</name> -->
+<!--     <value>true</value> -->
+<!--   </property> -->
+</configuration>
